@@ -8,6 +8,11 @@ The system utilizes an Arduino Uno, various sensors, and actuators to prevent a 
 
 ## Components
 
+<p align="center">
+  <img src="https://github.com/sunoopy/IOT_AlcoholDrivingprevention/assets/136866467/4dadd641-5f3d-47c8-af2c-2eb146639108">
+</p>
+
+
 ### Hardware
 - **Arduino Uno**
 - **MQ-3 Alcohol Sensor**: Used to detect the presence of alcohol in the driver's breath.
