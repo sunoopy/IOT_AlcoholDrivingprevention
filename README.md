@@ -17,7 +17,7 @@ The system utilizes an Arduino Uno, various sensors, and actuators to prevent a 
 - **Arduino Uno**
 - **MQ-3 Alcohol Sensor**: Used to detect the presence of alcohol in the driver's breath.
 - **Linear actuator**: Controls the shift lever to prevent the vehicle from moving out of the parking state. Have three states. (Forward,stop, Backward)
-- **humidity sensor **: Used to detect driver's breath and support alcohol sensor to get better result.
+- **humidity sensor**: Used to detect driver's breath and support alcohol sensor to get better result.
 - **2-channel Relay Module**: Performs Linear actuator state exchangement via decision of detection.
 - **Buzzer**: Emits a sound alert if alcohol is detected.
 - **VL6180X razer sensor**: Emit razer and check the state of shift lever.
